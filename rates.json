@@ -1,0 +1,25 @@
+{
+  "updated": null,
+  "sample": true,
+  "perUsd": {
+    "UAH": 41.5,
+    "PLN": 4.0,
+    "CZK": 23.2,
+    "TRY": 42.5,
+    "MDL": 18,
+    "GEL": 2.7,
+    "AMD": 385,
+    "KZT": 512,
+    "AED": 3.6725,
+    "RUB": 95,
+    "EUR": 0.925926,
+    "GBP": 0.78125
+  },
+  "usdValue": {
+    "USDT": 1,
+    "USDC": 1,
+    "BTC": 100000,
+    "ETH": 3500,
+    "TON": 3
+  }
+}
