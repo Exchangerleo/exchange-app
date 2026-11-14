@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:41:30Z",
+  "updated": "2026-11-14T06:46:26Z",
   "sources": [
     "open.er-api.com",
     "coingecko.com"
@@ -20,9 +20,9 @@
   },
   "usdValue": {
     "USDT": 0.999201,
-    "USDC": 0.999571,
-    "BTC": 66894.0,
-    "ETH": 1895.87,
+    "USDC": 0.9996,
+    "BTC": 67250.0,
+    "ETH": 1900.66,
     "TON": 3
   }
 }
